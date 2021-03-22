@@ -10,3 +10,4 @@ To see if a Linux service is running: service mysql status
 Check the size of a directory in Linux: du -ah /home/Zabacek
 Check open ports: netstat; ss
 Check Linux process information (CPU usage, memory, user information, etc.): ps aux |grep python
+                                                                            top
