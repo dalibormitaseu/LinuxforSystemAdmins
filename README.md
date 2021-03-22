@@ -8,3 +8,4 @@ Print Linux File System Information: sudo fdisk -l
 Check free disk space: df -ah
 To see if a Linux service is running: service mysql status
 Check the size of a directory in Linux: du -ah /home/Zabacek
+Check open ports: netstat; ss
