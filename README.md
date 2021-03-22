@@ -13,3 +13,5 @@ Check Linux process information (CPU usage, memory, user information, etc.): ps 
                                                                             top
 Networting: netstat
             tcpdump
+            traceroute
+            nmap
